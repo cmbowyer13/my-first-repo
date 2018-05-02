@@ -25,7 +25,7 @@ of code
 
 Here is how you make ([a link](http://jhu.edu))
 
-(![This is an image](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg))
+(![This is an image](https://jhu.edu))
 
 
 
