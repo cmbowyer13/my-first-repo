@@ -25,7 +25,7 @@ of code
 
 Here is how you make ([a link](http://jhu.edu))
 
-(![This is an image](https://jhu.edu))
+![This is an image](https://jhu.edu)
 
 
 
