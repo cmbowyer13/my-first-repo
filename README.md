@@ -1,31 +1,20 @@
-# This is a large heading
 
-## This is a smaller heading
+Caleb Bowyer
+### Geography
 
-And as **imagination** bodies forth,
-The forms of tings *unknown*, the poet's pen,
-Turns them to shapes and gives to airy noting,
-A local *habitation* and a **name**.
+I am a current resident of the city of Gainesville, in the state
+of Florida, in the United States of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Two of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Jitterbug Perfume* by Tom Robbins
+- *Theory of Moral Sentiments* by Adam Smith
 
-```
-This is
-a block
-of code
-```
+### Contact
 
-Here is how you make ([a link](http://jhu.edu))
-
-![This is an image](https://jhu.edu)
+A decent method of contacting me is [Linkedin](https://www.linkedin.com)
 
 
 
