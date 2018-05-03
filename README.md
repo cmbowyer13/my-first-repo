@@ -14,7 +14,7 @@ Two of my favorite books are:
 
 ### Contact
 
-A decent method of contacting me is [Linkedin](https://www.linkedin.com$
+A decent method of contacting me is [Linkedin](https://www.linkedin.com$)
 
 
 
